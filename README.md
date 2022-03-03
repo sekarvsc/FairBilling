@@ -5,7 +5,7 @@ The main file is FairBilling.java.
 # Setup
 You must be able to work with GitHub repositories.
 Clone repository.
-#URL
+ git clone https://github.com/sekarvsc/FairBilling.git
 
 # Eclipse Instructions
 Prerequisites:
