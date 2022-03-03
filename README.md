@@ -31,4 +31,4 @@ Then give finish button. Jar will get generated.
 # Instruction to execute jar in command prompt
 Navigate the jar generated location using command prompt.
 Give below command:
-  java -jar FairBilling.jar C:\Users\Chandrasekar\Desktop\FairBilling\input.txt
+  java -jar FairBilling.jar C:\Users\xxx\yyy\FairBilling\input.txt
